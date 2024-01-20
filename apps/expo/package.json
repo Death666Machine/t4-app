@@ -21,7 +21,7 @@
     "@t4/ui": "workspace:*",
     "app": "workspace:*",
     "babel-plugin-module-resolver": "^5.0.0",
-    "burnt": "^0.12.1",
+    "burnt": "^0.12.2",
     "expo": "^49.0.16",
     "expo-apple-authentication": "~6.1.2",
     "expo-constants": "~14.4.2",
