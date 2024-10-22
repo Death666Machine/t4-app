@@ -16,7 +16,7 @@
     "clean": "git clean -xdf .expo node_modules ios android"
   },
   "dependencies": {
-    "@babel/runtime": "^7.23.2",
+    "@babel/runtime": "^7.25.9",
     "@shopify/flash-list": "^1.6.3",
     "@t4/ui": "workspace:*",
     "app": "workspace:*",
@@ -47,7 +47,7 @@
     "react-native-svg": "^13.14.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.23.2",
+    "@babel/core": "^7.25.9",
     "@expo/metro-config": "^0.10.7",
     "@tamagui/babel-plugin": "1.75.9",
     "metro-minify-terser": "^0.80.0",
